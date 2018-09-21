@@ -12709,11 +12709,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thiago.paula\\Desktop\\Teste\\Projeto\\ProjetoTeste\\ProjetoTeste.csproj",
+      "projectUniqueName": "C:\\Users\\thiago.paula\\Desktop\\Teste\\Git_Teste\\ProjetoTeste\\ProjetoTeste.csproj",
       "projectName": "ProjetoTeste",
-      "projectPath": "C:\\Users\\thiago.paula\\Desktop\\Teste\\Projeto\\ProjetoTeste\\ProjetoTeste.csproj",
+      "projectPath": "C:\\Users\\thiago.paula\\Desktop\\Teste\\Git_Teste\\ProjetoTeste\\ProjetoTeste.csproj",
       "packagesPath": "C:\\Users\\thiago.paula\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thiago.paula\\Desktop\\Teste\\Projeto\\ProjetoTeste\\obj\\",
+      "outputPath": "C:\\Users\\thiago.paula\\Desktop\\Teste\\Git_Teste\\ProjetoTeste\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
