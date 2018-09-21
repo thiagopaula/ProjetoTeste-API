@@ -9,3 +9,14 @@ C:\Users\thiago.paula\Desktop\Teste\Projeto\ProjetoTeste\bin\Debug\netcoreapp2.0
 C:\Users\thiago.paula\Desktop\Teste\Projeto\ProjetoTeste\obj\Debug\netcoreapp2.0\ProjetoTeste.csprojAssemblyReference.cache
 C:\Users\thiago.paula\Desktop\Teste\Projeto\ProjetoTeste\obj\Debug\netcoreapp2.0\ProjetoTeste.dll
 C:\Users\thiago.paula\Desktop\Teste\Projeto\ProjetoTeste\obj\Debug\netcoreapp2.0\ProjetoTeste.pdb
+C:\Users\thiago.paula\Desktop\Teste\Git_Teste\ProjetoTeste\bin\Debug\netcoreapp2.0\ProjetoTeste.deps.json
+C:\Users\thiago.paula\Desktop\Teste\Git_Teste\ProjetoTeste\bin\Debug\netcoreapp2.0\ProjetoTeste.runtimeconfig.json
+C:\Users\thiago.paula\Desktop\Teste\Git_Teste\ProjetoTeste\bin\Debug\netcoreapp2.0\ProjetoTeste.runtimeconfig.dev.json
+C:\Users\thiago.paula\Desktop\Teste\Git_Teste\ProjetoTeste\bin\Debug\netcoreapp2.0\ProjetoTeste.dll
+C:\Users\thiago.paula\Desktop\Teste\Git_Teste\ProjetoTeste\bin\Debug\netcoreapp2.0\ProjetoTeste.pdb
+C:\Users\thiago.paula\Desktop\Teste\Git_Teste\ProjetoTeste\obj\Debug\netcoreapp2.0\ProjetoTeste.csprojAssemblyReference.cache
+C:\Users\thiago.paula\Desktop\Teste\Git_Teste\ProjetoTeste\obj\Debug\netcoreapp2.0\ProjetoTeste.csproj.CoreCompileInputs.cache
+C:\Users\thiago.paula\Desktop\Teste\Git_Teste\ProjetoTeste\obj\Debug\netcoreapp2.0\ProjetoTeste.AssemblyInfoInputs.cache
+C:\Users\thiago.paula\Desktop\Teste\Git_Teste\ProjetoTeste\obj\Debug\netcoreapp2.0\ProjetoTeste.AssemblyInfo.cs
+C:\Users\thiago.paula\Desktop\Teste\Git_Teste\ProjetoTeste\obj\Debug\netcoreapp2.0\ProjetoTeste.dll
+C:\Users\thiago.paula\Desktop\Teste\Git_Teste\ProjetoTeste\obj\Debug\netcoreapp2.0\ProjetoTeste.pdb
